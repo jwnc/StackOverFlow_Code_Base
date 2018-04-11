@@ -18,4 +18,5 @@ public class NatureConvert {
 			map.put(student.getId(), student);
 		}
 	}
+
 }

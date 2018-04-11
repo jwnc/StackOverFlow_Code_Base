@@ -39,7 +39,7 @@ $RECYCLE.BIN/
 *.apk
 *.class
 
-bin/
+sof-1/target/
 bin/classes/com/wnc/srtlearn/R$id.class
 bin/classes/com/wnc/srtlearn/R$layout.class
 bin/classes/com/wnc/srtlearn/R$raw.class
